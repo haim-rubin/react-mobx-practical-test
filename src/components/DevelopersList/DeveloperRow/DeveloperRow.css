@@ -1,0 +1,5 @@
+.developer-row{border-bottom: 1px solid thistle; color: #fff; padding:1rem; width: 100%; display: flex;}
+.developer-row > div{padding: 0px 0.5rem; margin: 0 1rem;}
+.developer-row .name{font-weight: 600; min-width: 10rem;}
+.developer-row .skillset{display: flex; }
+.developer-row .skillset .skill{ padding: 0 0.5rem; text-align: left; width: 6rem; display: flex;}

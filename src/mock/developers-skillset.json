@@ -1,0 +1,100 @@
+[
+  {
+    "developerId": 2,
+    "skillset": {
+      "name": "Java",
+      "yearsOfxperience": 4
+    }
+  },
+  {
+    "developerId": 5,
+    "skillset": {
+      "name": "NodeJS",
+      "yearsOfxperience": 4
+    }
+  },
+  {
+    "developerId": 1,
+    "skillset": {
+      "name": "React",
+      "yearsOfxperience": 3
+    }
+  },
+  {
+    "developerId": 1,
+    "skillset": {
+      "name": "NodeJS",
+      "yearsOfxperience": 4
+    }
+  },
+  {
+    "developerId": 2,
+    "skillset": {
+      "name": "Oracle",
+      "yearsOfxperience": 1
+    }
+  },
+  {
+    "developerId": 5,
+    "skillset": {
+      "name": "React",
+      "yearsOfxperience": 2
+    }
+  },
+  {
+    "developerId": 1,
+    "skillset": {
+      "name": "Vue",
+      "yearsOfxperience": 1.5
+    }
+  },
+  {
+    "developerId": 2,
+    "skillset": {
+      "name": "C#",
+      "yearsOfxperience": 3
+    }
+  },
+  {
+    "developerId": 2,
+    "skillset": {
+      "name": "NodeJS",
+      "yearsOfxperience": 1
+    }
+  },
+  {
+    "developerId": 1,
+    "skillset": {
+      "name": "Angular",
+      "yearsOfxperience": 3
+    }
+  },
+  {
+    "developerId": 2,
+    "skillset": {
+      "name": "mysql",
+      "yearsOfxperience": 1.5
+    }
+  },
+  {
+    "developerId": 5,
+    "skillset": {
+      "name": "Javascript",
+      "yearsOfxperience": 4
+    }
+  },
+  {
+    "developerId": 5,
+    "skillset": {
+      "name": "Vue",
+      "yearsOfxperience": 1.5
+    }
+  },
+  {
+    "developerId": 1,
+    "skillset": {
+      "name": "Javascript",
+      "yearsOfxperience": 3
+    }
+  }
+]
